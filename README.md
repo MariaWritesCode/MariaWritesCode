@@ -1,8 +1,6 @@
-- 👋 Hi, my name is Maria and I am a .NET Software Engineer.
-- :mortar_board: I finished law school first but had a change of heart. 
-- :books: I have a postgraduate in Software Engineering & I'm a second-year student of CS (currently on leave)
-- 💻I worked as a SharePoint admin, SharePoint dev & as a .NET dev
-- :books: I’m currently a mentee in [Tech Leaders Program](https://techleaders.eu/), working on a .NET 5 app deployed to Azure
+- 👋 I am a .NET/C# software engineer wih experience as a SharePoint developer/administrator 
+- :mortar_board: Law school graduate, postgraduate in Software Engineering & a second-year student of Computer Science (currently on leave)
+- 💻 Currently a mentee in [Tech Leaders Program](https://techleaders.eu/), working on [Spaced Repetitions](https://github.com/MariaWritesCode/SpacedRepetitionsApp) - a .NET 5 application deployed to Azure
 - 🔉 Learning Norwegian in the meantime 
 - :snowflake: Trondheim, Norway 
 <!---
